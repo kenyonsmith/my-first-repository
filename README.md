@@ -1,24 +1,22 @@
-# This is a large heading.
+# Kenyon Smith
 
-## This is a smaller heading.
+### Location
+I live in Logan, in Cache County, Utah, in the United States of America.
 
-And as **imagination** bodies forth, 
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Education
+I have a B.S. in Electrical Engineering from Utah State University.
+I have minors in 
+- Mathematics
+- Computer Science
 
-- This is
-- an unordered 
-- list
+### Movies
+These are some of my favorite movies:
+1. Zootopia
+2. Harry Potter and the Sorceror's Stone
+3. Frozen
 
-Here is `some code` in the middle of a sentence.
+### Food
+I like pizza.
 
-```
-This is
-a block
-of code.
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
+Get in touch with me [on Facebook](https://www.facebook.com/kenyoninidaho)
